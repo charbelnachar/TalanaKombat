@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+__init__.pyc
+__init__.pyo
+__pycache__/
+
+# PyCharm
+.idea/
+
+# Virtual Environment
+venv/
+env/
+env.bak/
+env1/
+venv1/
+
+# Ignorar archivos generados
+output.txt

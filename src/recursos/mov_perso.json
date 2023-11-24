@@ -1,0 +1,10 @@
+{
+  "player1":{
+        "DSDP": {"nombre": "Taladoken", "energia": 3},
+        "SDK" : {"nombre": "Remuyuken", "energia": 2}
+        },
+  "player2": {
+        "SAK" : {"nombre": "Remuyuken", "energia": 3},
+        "ASAP": {"nombre": "Taladoken", "energia": 2}
+        }
+}

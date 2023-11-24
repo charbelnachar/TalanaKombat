@@ -6,7 +6,7 @@ from src.modules.utility import Utility
 utility = Utility()
 
 # Leer datos de la pelea y las secuencias de movimientos de los personajes desde archivos JSON
-data_pelea = utility.leer_json("src/recursos/ejemplo4.json")
+data_pelea = utility.leer_json("src/recursos/ejemplo1.json")
 mov_pers = utility.leer_json("src/recursos/mov_perso.json")
 
 
